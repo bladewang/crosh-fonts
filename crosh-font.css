@@ -1,5 +1,11 @@
 @font-face {
-    font-family: "Iosevka Term Thin";
-    src: local("Iosevka Term Thin"),
-         url(https://bladewang.github.io/crosh-fonts/fonts/iosevka-term-thin.woff2) format("woff2");
+    font-family: "Iosevka Term Extralight";
+    src: local("Iosevka Term Extralight"),
+         url(fonts/iosevka/iosevka-term-extralight.woff2) format("woff2");
+}
+
+@font-face {
+    font-family: "Iosevka Term Light";
+    src: local("Iosevka Term Light"),
+         url(fonts/iosevka/iosevka-term-light.woff2) format("woff2");
 }
