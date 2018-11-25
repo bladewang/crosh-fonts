@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Iosevka Term Thin";
+    src: local("Iosevka Term Thin"),
+         url(https://bladewang.github.io/crosh-fonts/fonts/iosevka-term-thin.woff2) format("woff2");
+}
